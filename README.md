@@ -9,7 +9,7 @@ Based in **Franceville, Gabon**, I bridge the gap between complex biological dat
 ### 🔭 Current Focus
 - **Genomic Surveillance:** Analyzing 173k+ SARS-CoV-2 genomes to track viral evolution across Africa.
 - **One Health Modeling:** Coupling clinical datasets with environmental variables via **Google Earth Engine**.
-- **Tool Development:** Building Python packages for codon usage bias analysis.
+- **Tool Development:** Building Python packages for codon usage bias analysis [pycodon_analyzer](https://github.com/GabrielFalque/pycodon_analyzer).
 
 ---
 
