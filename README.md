@@ -1,8 +1,8 @@
 # Hi there, I'm Gabriel Falque 👋
 
-### Genomic Data Scientist | Bioinformatics Engineer 🧬
+### Genomic Data Scientist | Bioinformatics Engineer 🧬🔬
 
-Based in **Franceville, Gabon**, I bridge the gap between complex biological data and public health actions. My work focuses on automating genomic surveillance, analyzing viral evolution, and modeling epidemiological trends using satellite data (One Health).
+**Open to new opportunities** while continuing remote collaborations on public health projects with CIRMF. My work focuses on automating genomic surveillance, analyzing viral evolution, and modeling epidemiological trends using satellite data (One Health).
 
 ---
 
@@ -10,6 +10,12 @@ Based in **Franceville, Gabon**, I bridge the gap between complex biological dat
 - **Genomic Surveillance:** Analyzing 173k+ SARS-CoV-2 genomes to track viral evolution across Africa.
 - **One Health Modeling:** Coupling clinical datasets with environmental variables via **Google Earth Engine**.
 - **Tool Development:** Building Python packages for codon usage bias analysis [pycodon_analyzer](https://github.com/GabrielFalque/pycodon_analyzer).
+
+---
+
+### 📝 Selected Publications & Contributions
+- **[2026]** *Conformational dynamics study of TfR1 upon transferrin binding via NMA and MD simulations* - Journal of Molecular Graphics and Modelling. [DOI: 10.1016/j.jmgm.2026.109379](https://doi.org/10.1016/j.jmgm.2026.109379)
+- **[2025]** *Morphological and MALDI-TOF MS identification of freshwater snails, including intermediate hosts of schistosomes in Gabon* - bioRxiv (Preprint). [DOI: 10.1101/2025.07.14.664644](https://doi.org/10.1101/2025.07.14.664644)
 
 ---
 
@@ -43,17 +49,3 @@ Based in **Franceville, Gabon**, I bridge the gap between complex biological dat
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-falque)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabfalque@hotmail.fr)
-<!--
-**GabrielFalque/GabrielFalque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
