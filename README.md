@@ -14,6 +14,7 @@
 ---
 
 ### 📝 Selected Publications & Contributions
+- **[2026]** *Dual Aspect of the Pandemic on the African Continent: Viral Distribution and Shifting Demographic Susceptibility to SARS-CoV-2* - Viruses. [DOI: 10.3390/v18050524](https://doi.org/10.3390/v18050524)
 - **[2026]** *Antimicrobial Resistance and Phylo-Groups of Escherichia coli at the Human–Primate Interface in Gabon: A One Health Study* - Antibiotics. [DOI: 10.3390/antibiotics15050446](https://doi.org/10.3390/antibiotics15050446)
 - **[2026]** *Antibiotic Resistance and Phylogenetic Diversity of Escherichia coli Isolated from Hospital Wastewater in Gabon* - Microorganisms. [DOI: 10.3390/microorganisms14050987]( https://doi.org/10.3390/microorganisms14050987)
 - **[2026]** *Conformational dynamics study of TfR1 upon transferrin binding via NMA and MD simulations* - Journal of Molecular Graphics and Modelling. [DOI: 10.1016/j.jmgm.2026.109379](https://doi.org/10.1016/j.jmgm.2026.109379)
